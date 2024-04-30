@@ -17,16 +17,14 @@ align-items: center;
     background-color: hsl(0, 0%, 12%);
     margin: 0 auto;
     padding: 20px;
-    border-radius: 5px;
-    
-    
+    border-radius: 5px;  
 }
+
 .hero{
     display: flex;
     justify-content: center;
     align-items: center;
     flex-direction: column;
-
 }
 .avatar{
     border-radius: 150px;
@@ -35,9 +33,8 @@ align-items: center;
 .socials{
     display: flex;
     flex-direction: column;
-    
-
 }
+
 .socials div{
     background-color: hsl(0, 0%, 20%);
     text-align: center;
